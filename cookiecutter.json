@@ -3,9 +3,9 @@
     "repo_name": "{{ cookiecutter.project_name }}",
     "description": "",
     "version": "0.0.1",
-    "year": 1984,
-    "author": "CL User",
-    "email": "{{ cookiecutter.author.split()|join('.')|lower }}@mail.com",
-    "username": "{{ cookiecutter.author|first|lower }}{{ cookiecutter.author.split()|last|lower }}",
+    "year": 2024,
+    "author": "Patrick Seemann",
+    "email": "pse@patom.ch",
+    "username": "nohillside",
     "licence": "MIT"
 }
